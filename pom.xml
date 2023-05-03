@@ -14,7 +14,7 @@
 	<name>rentACar</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>16</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -73,5 +73,6 @@
 			</plugin>
 		</plugins>
 	</build>
+	
 
 </project>
